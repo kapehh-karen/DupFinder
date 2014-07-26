@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DupFinder">
+    <output-path>$PROJECT_DIR$/out/artifacts/DupFinder</output-path>
+    <root id="archive" name="DupFinder.jar">
+      <element id="module-output" name="DupFinder" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
