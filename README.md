@@ -2,6 +2,6 @@ DupFinder
 =========
 
 Плагин для поиска дюпа.
-Логи в папке плагина в файле dupers.log
+Все логи хранятся в файле ./plugins/DupFinder/dupers.log
 
 <b>Требует:</b> PluginManager
